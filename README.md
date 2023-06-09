@@ -46,8 +46,8 @@
    3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-### Name: P.Pradeep Raj
-### Register Number: 212222240073
+### Name: Yogesh rao S D
+### Register Number: 212222110055
 ### X AXIS ASSEMBLY
 
 ![WhatsApp Image 2023-05-18 at 18 17 54](https://github.com/22003264/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119389139/055b706c-0987-459d-83db-87e471674e4a)
